@@ -1,0 +1,27 @@
+{
+  "name": "testchallenge",
+  "version": "0.0.1",
+  "description": "A coding challenge for automated testing",
+  "main": "dist",
+  "scripts": {
+    "lint-md": "docker pull g3dev/lintmd:latest && docker run --rm -v `pwd`:/datadir --workdir /datadir g3dev/lintmd:latest",
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GriffinGroupGlobal/test-challenge"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "microservice"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GriffinGroupGlobal/test-challenge/issues"
+  },
+  "homepage": "https://github.com/GriffinGroupGlobal/test-challenge#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "markdownlint-cli": "~0.10.0"
+  }
+}
