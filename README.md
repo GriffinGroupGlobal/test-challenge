@@ -11,6 +11,8 @@ Griffin Group Global creates REST-based microservices that are presented in a va
 
 The challenge is to create an automated test for the [Star Wars API][swapi] website. The idea is for you to have fun and be creative with your tests.
 
+Ideally, this would take a mid-level developer up to two hours to complete the minimum requirements.
+
 ## Minimum Challenge Requirements
 We would like your submission to offer a minimum capability. The criteria are:
 - Provide a test automation suite that verifies the [Star Wars API][swapi] for at least one of the following browsers:
