@@ -17,10 +17,7 @@ We would like your submission to offer a minimum capability. The criteria are:
   - chrome
   - firefox
   - headless/phantomjs
-- Verify the existence of [swapi documentation page](https://swapi.co/documentation)
-  - verify the existence of the [wookie documentation](https://swapi.co/documentation#wookiee)
 - Verify the existence of the [home page][swapi]
-  - Verify through a request that the home page will show C3PO's information by submitting a request using people/2.
   - Verify through a request that the home page will show the Millennium Falcon's information by submitting a request using starships/10.
 
 ## Where to concentrate your effort
